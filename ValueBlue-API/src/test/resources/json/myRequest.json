@@ -1,0 +1,11 @@
+{
+  "title": "Green tea",
+  "description": "Traditional green tea from Japan",
+  "price": 2.99,
+  "discountPercentage": 1,
+  "rating": 4.9,
+  "stock": 40,
+  "brand": "Matcha",
+  "category": "groceries"
+}
+
