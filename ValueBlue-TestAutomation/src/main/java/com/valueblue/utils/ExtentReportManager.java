@@ -11,7 +11,7 @@ public class ExtentReportManager {
     public static ExtentReports  getReport() {
         if (extent == null) {
             // Create an ExtentHtmlReporter
-            ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter("extentReports.html");
+            ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter("ExtentReport/extentReports.html");
             htmlReporter.config().setTheme(Theme.DARK);
             htmlReporter.config().setDocumentTitle("Automation Test Report");
             htmlReporter.config().setEncoding("utf-8");

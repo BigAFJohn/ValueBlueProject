@@ -1,29 +1,29 @@
-2024-03-31 21:27:35 [TestNG-PoolService-0] INFO  ValueBlue-Project - Loading configuration from config.properties
-2024-03-31 21:27:35 [TestNG-PoolService-0] INFO  ValueBlue-Project - ===============================================
-2024-03-31 21:27:35 [TestNG-PoolService-0] INFO  ValueBlue-Project - START: FinishMe
-2024-03-31 21:27:35 [TestNG-PoolService-0] INFO  ValueBlue-Project - ===============================================
-2024-03-31 21:27:35 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
-2024-03-31 21:27:35 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/Iige0001/.cache/selenium/chromedriver/mac-arm64/123.0.6312.86/chromedriver
-2024-03-31 21:27:36 [TestNG-PoolService-0] INFO  ValueBlue-Project - Navigated to baseURL: https://example.com
-2024-03-31 21:27:36 [TestNG-PoolService-0] INFO  ValueBlue-Project - WebDriverActions initialized with a 20-second wait
-2024-03-31 21:27:36 [TestNG-PoolService-0] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
-2024-03-31 21:27:36 [TestNG-PoolService-0] INFO  ValueBlue-Project - WebDriverActions initialized with a 20-second wait
-2024-03-31 21:27:36 [TestNG-PoolService-0] INFO  ValueBlue-Project - Starting the browser.
-2024-03-31 21:27:36 [TestNG-PoolService-0] INFO  ValueBlue-Project - Successfully navigated to the configured URL.
-2024-03-31 21:27:36 [TestNG-PoolService-0] INFO  ValueBlue-Project - Clicking on 'More information...' link.
-2024-03-31 21:27:36 [TestNG-PoolService-0] INFO  ValueBlue-Project - Clicking on element: By.xpath: //a[@href='https://www.iana.org/domains/example' and text()='More information...']
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - Clicked on the 'More information...' link.
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - Checking presence of RFC 2606 link.
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - Waiting for visibility of element: By.xpath: //a[@href='/go/rfc2606' and text()='RFC 2606']
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - Checking presence of RFC 6761 link.
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - Waiting for visibility of element: By.xpath: //a[@href='/go/rfc6761' and text()='RFC 6761']
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - Clicking on 'Domain box link' 
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - Clicking on element: By.xpath: //a[@href='/domains' and text()='Domains']
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - Clicked on the 'Domains' element.
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - Waiting for visibility of element: By.className: navigation_box
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - Found text in the navigation box: Root Zone Management
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - FinishMe - Test PASSED
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - WebDriver has been shutdown.
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - ===============================================
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - END: FinishMe
-2024-03-31 21:27:39 [TestNG-PoolService-0] INFO  ValueBlue-Project - ===============================================
+2024-04-03 11:35:52 [TestNG-PoolService-0] INFO  ValueBlue-Project - Loading configuration from config.properties
+2024-04-03 11:35:52 [TestNG-PoolService-0] INFO  ValueBlue-Project - ===============================================
+2024-04-03 11:35:52 [TestNG-PoolService-0] INFO  ValueBlue-Project - START: FinishMe
+2024-04-03 11:35:52 [TestNG-PoolService-0] INFO  ValueBlue-Project - ===============================================
+2024-04-03 11:35:52 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+2024-04-03 11:35:52 [TestNG-PoolService-0] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/Iige0001/.cache/selenium/chromedriver/mac-arm64/123.0.6312.86/chromedriver
+2024-04-03 11:35:54 [TestNG-PoolService-0] INFO  ValueBlue-Project - Starting the browser.
+2024-04-03 11:35:54 [TestNG-PoolService-0] INFO  ValueBlue-Project - Navigated to baseURL: https://example.com
+2024-04-03 11:35:54 [TestNG-PoolService-0] INFO  ValueBlue-Project - WebDriverActions initialized with a 20-second wait
+2024-04-03 11:35:54 [TestNG-PoolService-0] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
+2024-04-03 11:35:54 [TestNG-PoolService-0] INFO  ValueBlue-Project - WebDriverActions initialized with a 20-second wait
+2024-04-03 11:35:54 [TestNG-PoolService-0] INFO  ValueBlue-Project - Successfully navigated to the configured URL.
+2024-04-03 11:35:54 [TestNG-PoolService-0] INFO  ValueBlue-Project - Clicking on 'More information...' link.
+2024-04-03 11:35:54 [TestNG-PoolService-0] INFO  ValueBlue-Project - Clicking on element: By.xpath: //a[@href='https://www.iana.org/domains/example' and text()='More information...']
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - Clicked on the 'More information...' link.
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - Checking presence of RFC 2606 link.
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - Waiting for visibility of element: By.xpath: //a[@href='/go/rfc2606' and text()='RFC 2606']
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - Checking presence of RFC 6761 link.
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - Waiting for visibility of element: By.xpath: //a[@href='/go/rfc6761' and text()='RFC 6761']
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - Clicking on 'Domain box link' 
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - Clicking on element: By.xpath: //a[@href='/domains' and text()='Domains']
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - Clicked on the Domains element
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - Waiting for visibility of element: By.className: navigation_box
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - Found text in the navigation box: Root Zone Management
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - FinishMe - Test PASSED
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - WebDriver has been shutdown and browser closed.
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - ===============================================
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - END: FinishMe
+2024-04-03 11:35:56 [TestNG-PoolService-0] INFO  ValueBlue-Project - ===============================================

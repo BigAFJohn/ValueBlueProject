@@ -1,9 +1,9 @@
-2024-04-02 14:12:37 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
-2024-04-02 14:12:37 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:37 [main] INFO  ValueBlue-Project - START: Create a new product
-2024-04-02 14:12:37 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:37 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
-2024-04-02 14:12:37 [main] INFO  ValueBlue-Project - The parsed Json body is: {
+2024-04-02 14:43:55 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
+2024-04-02 14:43:55 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:55 [main] INFO  ValueBlue-Project - START: Create a new product
+2024-04-02 14:43:55 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:55 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
+2024-04-02 14:43:55 [main] INFO  ValueBlue-Project - The parsed Json body is: {
   "title": "Green tea",
   "description": "Traditional green tea from Japan",
   "price": 2.99,
@@ -15,56 +15,56 @@
 }
 
 
-2024-04-02 14:12:38 [main] INFO  ValueBlue-Project - POST API endpoint and request body set for new product addition
-2024-04-02 14:12:38 [main] INFO  ValueBlue-Project - POST API endpoint for new product already set in constructor.
-2024-04-02 14:12:38 [main] INFO  ValueBlue-Project - Request headers set.
-2024-04-02 14:12:38 [main] INFO  ValueBlue-Project - Request body with new product data already set in constructor.
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - Received valid HTTP response code 200
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - Response body validated for new product.
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - Create a new product - Test PASSED
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - END: Create a new product
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - START: Read a product
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - GET product API endpoint set to: https://dummyjson.com/products/1
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - Setting request headers.
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - Headers set and GET request sent to: https://dummyjson.com/products/1
-2024-04-02 14:12:39 [main] INFO  ValueBlue-Project - Received HTTP response code: 200
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - Response body validation passed: Product name matches the expected value.
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - Read a product - Test PASSED
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - END: Read a product
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - START: Update a product
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - PUT product API endpoint set: https://dummyjson.com/products/2
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - Sending PUT HTTP request.
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - Request body for update set with data: {
+2024-04-02 14:43:55 [main] INFO  ValueBlue-Project - POST API endpoint and request body set for new product addition
+2024-04-02 14:43:55 [main] INFO  ValueBlue-Project - POST API endpoint for new product already set in constructor.
+2024-04-02 14:43:55 [main] INFO  ValueBlue-Project - Request headers set.
+2024-04-02 14:43:55 [main] INFO  ValueBlue-Project - Request body with new product data already set in constructor.
+2024-04-02 14:43:56 [main] INFO  ValueBlue-Project - Received valid HTTP response code 200
+2024-04-02 14:43:56 [main] INFO  ValueBlue-Project - Response body validated for new product.
+2024-04-02 14:43:56 [main] INFO  ValueBlue-Project - Create a new product - Test PASSED
+2024-04-02 14:43:56 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:56 [main] INFO  ValueBlue-Project - END: Create a new product
+2024-04-02 14:43:56 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:56 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
+2024-04-02 14:43:56 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:56 [main] INFO  ValueBlue-Project - START: Read a product
+2024-04-02 14:43:56 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:56 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
+2024-04-02 14:43:56 [main] INFO  ValueBlue-Project - GET product API endpoint set to: https://dummyjson.com/products/1
+2024-04-02 14:43:56 [main] INFO  ValueBlue-Project - Setting request headers.
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - Headers set and GET request sent to: https://dummyjson.com/products/1
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - Received HTTP response code: 200
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - Response body validation passed: Product name matches the expected value.
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - Read a product - Test PASSED
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - END: Read a product
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - START: Update a product
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - PUT product API endpoint set: https://dummyjson.com/products/2
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - Sending PUT HTTP request.
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - Request body for update set with data: {
   "title": "iPhone XR"
 }
 
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - Validating HTTP response code 200 for update request.
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - Validating that response body contains updated product.
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - Update a product - Test PASSED
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - END: Update a product
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - START: Delete a product
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - DELETE product API endpoint set to: https://dummyjson.com/products/6
-2024-04-02 14:12:40 [main] INFO  ValueBlue-Project - Setting request headers for DELETE request.
-2024-04-02 14:12:41 [main] INFO  ValueBlue-Project - DELETE request sent successfully.
-2024-04-02 14:12:41 [main] INFO  ValueBlue-Project - Product deleted successfully on: 2024-04-02T12:12:41.166Z
-2024-04-02 14:12:41 [main] INFO  ValueBlue-Project - Delete a product - Test PASSED
-2024-04-02 14:12:41 [main] INFO  ValueBlue-Project - ===============================================
-2024-04-02 14:12:41 [main] INFO  ValueBlue-Project - END: Delete a product
-2024-04-02 14:12:41 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - Validating HTTP response code 200 for update request.
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - Validating that response body contains updated product.
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - Update a product - Test PASSED
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - END: Update a product
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - Configuration loaded successfully from config.properties
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - START: Delete a product
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - DELETE product API endpoint set to: https://dummyjson.com/products/6
+2024-04-02 14:43:57 [main] INFO  ValueBlue-Project - Setting request headers for DELETE request.
+2024-04-02 14:43:58 [main] INFO  ValueBlue-Project - DELETE request sent successfully.
+2024-04-02 14:43:58 [main] INFO  ValueBlue-Project - Product deleted successfully on: 2024-04-02T12:43:58.200Z
+2024-04-02 14:43:58 [main] INFO  ValueBlue-Project - Delete a product - Test PASSED
+2024-04-02 14:43:58 [main] INFO  ValueBlue-Project - ===============================================
+2024-04-02 14:43:58 [main] INFO  ValueBlue-Project - END: Delete a product
+2024-04-02 14:43:58 [main] INFO  ValueBlue-Project - ===============================================

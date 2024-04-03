@@ -50,6 +50,7 @@ public class BaseClass {
         WebDriver driver = getDriver();
         if (driver != null) {
             driver.manage().window().maximize();
+            LogClass.info("Starting the browser.");
             driver.manage().deleteAllCookies();
 
             String baseUrl = prop.getProperty("baseUrl");
@@ -71,7 +72,7 @@ public class BaseClass {
         if (driver != null) {
             driver.quit();
             driverThreadLocal.remove();
-            LogClass.info("WebDriver has been shutdown.");
+            LogClass.info("WebDriver has been shutdown and browser closed.");
         }
     }
 
